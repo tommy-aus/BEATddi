@@ -1,0 +1,9 @@
+Cold Start Dataset Statistics
+==============================
+
+total_patients: 1000.00
+total_admissions: 1347.00
+total_prescriptions: 111166.00
+unique_drugs: 407.00
+avg_prescriptions_per_patient: 111.17
+avg_admissions_per_patient: 1.35
